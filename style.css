@@ -1,0 +1,258 @@
+   *
+{
+   margin:0;
+   padding:0;
+}
+body
+{
+   background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(img/pic3.jpg);
+    height: 100vh;
+   background-size: cover;
+   background-posotion: center;
+}
+
+.main-nav 
+{
+    float: right;
+    list-style: none;
+    margin-top: 30px;
+    
+}
+
+.main-nav li
+{
+    display: inline-block;
+}
+
+.main-nav li a
+{
+    color: white;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+}
+
+.main-nav li.active a
+{
+    border: 2px solid white;
+}
+.main-nav li a:hover
+{
+    border: 2px solid white;
+}
+.logo img 
+{
+    width: 150px;
+    height: auto;
+    float: left;
+    
+}
+body 
+{
+    font-family: monospace;
+}
+
+.row 
+{
+    max-width: 1200px;
+    margin: auto;
+}
+.topnav {
+  background-color: #74B9FF;
+  overflow: hidden;
+}
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.players
+
+{
+    height: 400px;
+    width: auto;
+    padding: 200px;
+    margin-left: 180px;
+    
+
+}
+.txt1
+{
+   text-align:center;
+    color: #74B9FF;
+    padding-top: 14px;
+    font-size: 50px;
+    
+    
+  
+}
+.ply1
+{
+    border: 2px solid #74B9FF;
+    border-radius: 100px;
+    margin-bottom: 30px;
+       padding-bottom: 50px;
+  
+    
+    
+
+}
+
+.ply2
+{
+    border: 2px solid #74B9FF;
+    border-radius: 100px;
+    margin-bottom: 30px;
+       padding-bottom: 50px;
+}
+   
+.ply3
+{
+    border: 2px solid #74B9FF;
+    border-radius: 100px;
+    margin-bottom: 30px;
+       padding-bottom: 50px;
+}
+  
+.ply4
+{
+    border: 2px solid #74B9FF;
+    border-radius: 100px;
+    margin-bottom: 30px;
+       padding-bottom: 50px;
+}
+   
+.ply5
+{
+    border: 2px solid #74B9FF;
+    border-radius: 100px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    padding-bottom: 50px;
+  
+}
+   
+.ply6
+{
+    border: 2px solid #74B9FF;
+    border-radius: 100px;
+    margin-bottom: 30px;
+       padding-bottom: 50px;
+}
+
+.ply7
+{
+    border: 2px solid #74B9FF;
+    border-radius: 100px;
+    margin-bottom: 30px;
+       padding-bottom: 50px;
+}
+   
+.ply8
+{
+    border: 2px solid #74B9FF;
+    border-radius: 100px;
+    margin-bottom: 30px;
+       padding-bottom: 50px;
+}
+
+
+  
+.h1
+{
+    font-size: 50px;
+    color: #74B9FF;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.team1
+{
+    height: 350px;
+    width: auto;
+    padding-left: 50px;
+   
+    
+}
+
+.team2
+{
+    height: 350px;
+    width: auto;
+    padding-left: 50px;
+    
+    
+}
+.team3
+{
+    height: 350px;
+    width: auto;
+    padding-left: 50px;
+  
+}
+.team4
+{
+    height: 350px;
+    width: auto;
+    padding-left: 50px;
+  
+}
+.team5
+{
+    height: 350px;
+    width: auto;
+    padding-left: 50px;
+   
+    
+}
+.team6
+{
+    height: 350px;
+    width: auto;
+    padding-left: 90px;
+    
+}
+.team7
+{
+    height: 350px;
+    width: auto;
+    padding-left: 130px;
+   
+    
+}
+.team8
+{
+    height: 300px;
+    width: auto;
+    padding-left: 50px;
+    
+    
+}
+.team
+{
+    padding-left: 100px;
+}
+
+
+   
+
+
+
+
+
+
+
+
