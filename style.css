@@ -184,6 +184,9 @@ topnav a:hover {
     height: 350px;
     width: auto;
     padding-left: 50px;
+    border:2px solid #E8290B;
+    border-radius: 100px;
+
    
     
 }
@@ -193,6 +196,8 @@ topnav a:hover {
     height: 350px;
     width: auto;
     padding-left: 50px;
+    border:2px solid #E8290B;
+    border-radius: 100px;
     
     
 }
@@ -201,6 +206,9 @@ topnav a:hover {
     height: 350px;
     width: auto;
     padding-left: 50px;
+     border:2px solid #E8290B;
+    border-radius: 100px;
+    
   
 }
 .team4
@@ -208,6 +216,9 @@ topnav a:hover {
     height: 350px;
     width: auto;
     padding-left: 50px;
+     border:2px solid #E8290B;
+    border-radius: 100px;
+    
   
 }
 .team5
@@ -215,6 +226,9 @@ topnav a:hover {
     height: 350px;
     width: auto;
     padding-left: 50px;
+     border:2px solid #E8290B;
+    border-radius: 100px;
+    
    
     
 }
@@ -223,6 +237,9 @@ topnav a:hover {
     height: 350px;
     width: auto;
     padding-left: 90px;
+     border:2px solid #E8290B;
+    border-radius: 100px;
+    
     
 }
 .team7
@@ -230,6 +247,9 @@ topnav a:hover {
     height: 350px;
     width: auto;
     padding-left: 130px;
+     border:2px solid #E8290B;
+    border-radius: 100px;
+    
    
     
 }
@@ -238,200 +258,15 @@ topnav a:hover {
     height: 300px;
     width: auto;
     padding-left: 50px;
+     border:2px solid #E8290B;
+    border-radius: 100px;
+    
     
     
 }
 .team
 {
     padding-left: 100px;
-}
-.box1
-{
-  width: 284px;
-  height: 350px;
-  border: 2px solid #000;
-  border-radius: 100px;
-  position: relative;
-  left: 200px;
-
-  background-image: url(img/players/1.png);
-  background-repeat: no-repeat;
-  border-color: #E8290B;
-  margin-top: 50px;
-}
-.box1 h1
-{
-  position: absolute;
-  top: 300px;
-  left: 35px;
-  color: #74B9FF;
-}
-
-
-
-.box2
-{
-  width: 284px;
-  height: 350px;
-  border: 2px solid #000;
-  border-radius: 100px;
-  position: relative;
-  left: 1000px;
-  top: -410px;
-  background-image: url(img/players/2.png);
-  background-repeat: no-repeat;
-  border-color: #E8290B;
-  margin-top: 50px;
-}
-.box2 h1
-{
-  position: absolute;
-  top: 300px;
-  left: 50px;
-  color: #74B9FF;
-}
-
-
-
-
-.box3
-{
-  width: 284px;
-  height: 350px;
-  border: 2px solid #000;
-  border-radius: 100px;
-  position: relative;
-  left: 600px;
-  top: -760px;
-  background-image: url(img/players/3.png);
-  background-repeat: no-repeat;
-  border-color: #E8290B;
-  
-}
-.box3 h1
-{
-  position: absolute;
-  top: 300px;
-  left: 50px;
-  color: #74B9FF;
-}
-
-
-.box4
-{
-  width: 284px;
-  height: 350px;
-  border: 2px solid #000;
-  border-radius: 100px;
-  position: relative;
-left:   1400px;
- top: -1172px;
-  background-image: url(img/players/4.png);
-  background-repeat: no-repeat;
-  border-color: #E8290B;
-  margin-top: 50px;
-}
-.box4 h1
-{
-  position: absolute;
-  top: 300px;
-  left: 50px;
-  color: #74B9FF;
-}
-
-
-
-
-.box5
-{
-  width: 284px;
-  height: 350px;
-  border: 2px solid #000;
-  border-radius: 100px;
-  position: relative;
-  left: 200px;
-  top: -1100px;
-  background-image: url(img/players/5.png);
-  background-repeat: no-repeat;
-  border-color: #E8290B;
-  margin-top: 50px;
-}
-.box5 h1
-{
-  position: absolute;
-  top: 300px;
-  left:45px;
-  color: #74B9FF;
-}
-
-
-
-.box6
-{
-  width: 284px;
-  height: 350px;
-  border: 2px solid #000;
-  border-radius: 100px;
-  position: relative;
-  left: 600px;
-  top: -1505px;
-  background-image: url(img/players/6.png);
-  background-repeat: no-repeat;
-  border-color: #E8290B;
-  margin-top: 50px;
-}
-.box6 h1
-{
-  position: absolute;
-  top: 280px;
-  left: 55px;
-  color: #74B9FF;
-}
-
-
-.box7
-{
-  width: 284px;
-  height: 350px;
-  border: 2px solid #000;
-  border-radius: 100px;
-  position: relative;
-  left: 1000px;
-  top: -1907px;
-  background-image: url(img/players/7.png);
-  background-repeat: no-repeat;
-  border-color: #E8290B;
-  margin-top: 50px;
-}
-.box7 h1
-{
-  position: absolute;
-  top: 300px;
-  left: 45px;
-  color: #74B9FF;
-}
-
-
-.box8
-{
-  width: 284px;
-  height: 350px;
-  border: 2px solid #000;
-  border-radius: 100px;
-  position: relative;
-  left: 1400px;
-  top: -2312px;
-  background-image: url(img/players/8.png);
-  background-repeat: no-repeat;
-  border-color: #E8290B;
-  margin-top: 50px;
-}
-.box8 h1
-{
-  position: absolute;
-  top: 300px;
-  left: 50px;
-  color: #74B9FF;
 }
 
 
