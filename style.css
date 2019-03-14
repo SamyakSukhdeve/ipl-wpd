@@ -4,6 +4,8 @@
    height: 100vh;
    background-size: cover;
    background-posotion: center;
+   font-family: monospace;
+
 }
 
 .h1
@@ -18,7 +20,6 @@
 {
     float: right;
     list-style: none;
-    margin-top: 30px;
 }
 
 .main-nav li
@@ -30,7 +31,6 @@
 {
     color: white;
     text-decoration: none;
-    padding: 5px 20px;
     font-family: "Roboto", sans-serif;
     font-size: 15px;
 }
@@ -39,32 +39,24 @@
 {
     border: 2px solid white;
 }
+
 .main-nav li a:hover
 {
     border: 2px solid white;
 }
 
-.logo img 
+.logo 
 {
-    width: 150px;
-    height: auto;
+    height: 80px;
+    width: auto;
     float: left;   
 }
 
-body 
-{
-    font-family: monospace;
-}
-
-.row 
-{
-    max-width: 1200px;
-    margin: auto;
-}
 .topnav {
   background-color: #74B9FF;
   overflow: hidden;
 }
+
 .topnav a {
   float: left;
   color: #f2f2f2;
@@ -73,10 +65,12 @@ body
   text-decoration: none;
   font-size: 17px;
 }
-topnav a:hover {
+
+.topnav a:hover {
   background-color: #ddd;
   color: black;
 }
+
 .topnav a.active {
   background-color: #4CAF50;
   color: white;
@@ -88,9 +82,10 @@ topnav a:hover {
     padding: 200px;
     margin-left: 180px;
 }
+
 .txt1
 {
-   text-align:center;
+    text-align:center;
     color: #74B9FF;
     padding-top: 14px;
     font-size: 50px;  
