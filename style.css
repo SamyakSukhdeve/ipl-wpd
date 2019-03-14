@@ -1,14 +1,17 @@
-  *
+.body
 {
-   margin:0;
-   padding:0;
-}
-body
-{
-   background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(img/pic3.jpg);
-    height: 100vh;
+   background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(img/IPL/BG.jpg);
+   height: 100vh;
    background-size: cover;
    background-posotion: center;
+}
+
+.h1
+{
+    font-size: 50px;
+    color: #74B9FF;
+    text-align: center;
+    padding-top: 30px;
 }
 
 .main-nav 
@@ -16,7 +19,6 @@ body
     float: right;
     list-style: none;
     margin-top: 30px;
-    
 }
 
 .main-nav li
@@ -41,13 +43,14 @@ body
 {
     border: 2px solid white;
 }
+
 .logo img 
 {
     width: 150px;
     height: auto;
-    float: left;
-    
+    float: left;   
 }
+
 body 
 {
     font-family: monospace;
@@ -79,193 +82,30 @@ topnav a:hover {
   color: white;
 }
 
-.players
-
-{
+.players {
     height: 400px;
     width: auto;
     padding: 200px;
     margin-left: 180px;
-    
-
 }
 .txt1
 {
    text-align:center;
     color: #74B9FF;
     padding-top: 14px;
-    font-size: 50px;
-    
-    
-  
-}
-.ply1
-{
-    border: 2px solid #74B9FF;
-    border-radius: 100px;
-    margin-bottom: 30px;
-       padding-bottom: 50px;
-  
-    
-    
-
+    font-size: 50px;  
 }
 
-.ply2
-{
-    border: 2px solid #74B9FF;
-    border-radius: 100px;
-    margin-bottom: 30px;
-       padding-bottom: 50px;
+.ply {
+  border: 2px solid #74B9FF;
+  border-radius: 100px;
+  margin-bottom: 30px;
+  padding-bottom: 50px;
 }
-   
-.ply3
-{
-    border: 2px solid #74B9FF;
-    border-radius: 100px;
-    margin-bottom: 30px;
-       padding-bottom: 50px;
-}
-  
-.ply4
-{
-    border: 2px solid #74B9FF;
-    border-radius: 100px;
-    margin-bottom: 30px;
-       padding-bottom: 50px;
-}
-   
-.ply5
-{
-    border: 2px solid #74B9FF;
-    border-radius: 100px;
-    margin-bottom: 30px;
-    margin-top: 30px;
-    padding-bottom: 50px;
-  
-}
-   
-.ply6
-{
-    border: 2px solid #74B9FF;
-    border-radius: 100px;
-    margin-bottom: 30px;
-       padding-bottom: 50px;
-}
-
-.ply7
-{
-    border: 2px solid #74B9FF;
-    border-radius: 100px;
-    margin-bottom: 30px;
-       padding-bottom: 50px;
-}
-   
-.ply8
-{
-    border: 2px solid #74B9FF;
-    border-radius: 100px;
-    margin-bottom: 30px;
-       padding-bottom: 50px;
-}
-
-
-  
-.h1
-{
-    font-size: 50px;
-    color: #74B9FF;
-    text-align: center;
-    padding-top: 30px;
-}
-
-.team1
-{
-    height: 350px;
-    width: auto;
-    padding-left: 50px;
-   
-
-   
-    
-}
-
-.team2
-{
-    height: 350px;
-    width: auto;
-    padding-left: 50px;
  
-    
-    
-}
-.team3
+.team-logos
 {
-    height: 350px;
+    height: 200px;
     width: auto;
-    padding-left: 50px;
-     
-  
+    padding: 30px 30px 30px 30px;
 }
-.team4
-{
-    height: 350px;
-    width: auto;
-    padding-left: 50px;
-    
-  
-}
-.team5
-{
-    height: 350px;
-    width: auto;
-    padding-left: 50px;
-     
-    
-   
-    
-}
-.team6
-{
-    height: 350px;
-    width: auto;
-    padding-left: 90px;
-    
-    
-    
-}
-.team7
-{
-    height: 350px;
-    width: auto;
-    padding-left: 130px;
-     ;
-    
-   
-    
-}
-.team8
-{
-    height: 300px;
-    width: auto;
-    padding-left: 50px;
-    
-    
-    
-    
-}
-.team
-{
-    padding-left: 100px;
-}
-
-
-
-
-
-
-
-
-
-
-
