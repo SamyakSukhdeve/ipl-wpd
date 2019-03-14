@@ -47,7 +47,7 @@
 
 .logo 
 {
-    height: 80px;
+    max-height: 80px;
     width: auto;
     float: left;   
 }
