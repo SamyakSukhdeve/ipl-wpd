@@ -1,6 +1,6 @@
-.body
+ body
 {
-   background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(img/IPL/BG.jpg);
+   background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(img/ipl/background.jpg)
    height: 100vh;
    background-size: cover;
    background-posotion: center;
@@ -109,3 +109,13 @@ h1
 {
   width: 60%;
 }
+
+
+.mem
+{
+    padding-left: 50px;
+    width: auto;
+    height: 300px;
+    
+}
+
