@@ -1,6 +1,6 @@
  body
 {
-   background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(img/ipl/background.jpg)
+   background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(img/background.jpg);
    height: 100vh;
    background-size: cover;
    background-posotion: center;
@@ -16,11 +16,17 @@ h1
     padding-top: 30px;
 }
 
+.main-h1 {
+  font-family: helvitica;
+  font-size: 100px;
+}
+
 table, th, td 
 {
   border: 1px solid black;
   border-collapse: collapse;
   border-spacing: 5px;
+  background-color: #f1f1c1;
 }
 
 th, td {
@@ -28,10 +34,27 @@ th, td {
 }
 
 th {
-  text-align: left;
+  text-align: center;
+  background-color: #74B9FF;
+}
+
+.table1
+{
+  width: 60%;
+  padding-bottom: 100px;
 }
 
 
+.table1 tr:nth-child(even) {
+  background-color: #eee;
+}
+.table1 tr:nth-child(odd) {
+  background-color: #fff;
+}
+.table1 th {
+  color: white;
+  background-color: black;
+}
 
 .main-nav 
 {
@@ -97,6 +120,7 @@ th {
     height: 400px;
     width: auto;
     padding: 200px;
+    padding-top: 20px;
     margin-left: 180px;
 }
 
@@ -109,7 +133,7 @@ th {
 }
 
 .ply {
-  border: 2px solid #74B9FF;
+  border: 2px solid #E8290B;
   border-radius: 100px;
   margin-bottom: 30px;
   padding-bottom: 50px;
@@ -120,11 +144,6 @@ th {
     height: 200px;
     width: auto;
     padding: 30px 30px 30px 30px;
-}
-
-.table
-{
-  width: 60%;
 }
 
 
